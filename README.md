@@ -28,18 +28,18 @@
 
 直接把 GitHub 链接丢给任意 Agent：
 ```
-https://github.com/AiYuSherry/interview-recorder
+https://github.com/AiYuSherry/interview-review-skill
 ```
 
 Agent 会自动下载并安装 skill。
 
 **方式二：手动安装**
 
-把 `interview-recorder.md` 文件放到你的 Agent skills 目录：
+把 `interview-review-skill.md` 文件放到你的 Agent skills 目录：
 
 ```bash
 # Claude Code
-~/.claude/skills/interview-recorder.md
+~/.claude/skills/interview-review-skill.md
 
 # 其他 Agent 工具
 # 放到对应的 skills 文件夹
@@ -163,18 +163,18 @@ The entire process takes 5 minutes. No more manual note-taking. No more re-liste
 
 Simply drop the GitHub link to any Agent:
 ```
-https://github.com/AiYuSherry/interview-recorder
+https://github.com/AiYuSherry/interview-review-skill
 ```
 
 The Agent will automatically download and install the skill.
 
 **Option 2: Manual Installation**
 
-Place the `interview-recorder.md` file in your Agent skills directory:
+Place the `interview-review-skill.md` file in your Agent skills directory:
 
 ```bash
 # Claude Code
-~/.claude/skills/interview-recorder.md
+~/.claude/skills/interview-review-skill.md
 
 # Other Agent tools
 # Place in the corresponding skills folder
